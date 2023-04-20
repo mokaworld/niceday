@@ -1,0 +1,72 @@
+body{
+    
+    font-family: 'Cairo', sans-serif;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+    
+    font-size: 18px;
+    color: #F57315;
+    font-weight: bolder;
+  
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+    
+    
+      color: #96396E;
+}
+
+.navbar-nav{
+    
+    margin-right: 17%;
+    padding: 5px;
+}
+
+
+.address h1{
+
+	font-family: "cairo";
+	background-color: #2DAA8B;
+	color: #fff;
+	padding: 35px;
+}
+
+.address p{
+
+  margin-top: 25px;
+
+}
+
+.navbar-default {
+	margin-bottom: -20px;
+
+}
+
+
+.form-group{
+
+	margin-top: 50px;
+}
+
+.form-control{
+
+	padding: 25px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+textarea.form-control {
+
+    height: 180px;
+ 
+
+}
+
+
+.footer{
+
+    padding: 5px;
+}
+

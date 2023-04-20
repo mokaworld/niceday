@@ -1,0 +1,68 @@
+
+
+body{
+    
+    font-family: 'Cairo', sans-serif;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+    
+    font-size: 18px;
+    color: #F57315;
+    font-weight: bolder;
+  
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+    
+    
+      color: #96396E;
+}
+
+.navbar-nav{
+    
+    margin-right: 17%;
+    padding: 5px;
+}
+
+
+
+.images img{
+
+
+    max-width: 100%;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+
+.form-group{
+
+    margin-top: 50px;
+}
+
+.form-control{
+
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+textarea.form-control {
+
+    height: 180px;
+    margin-right: 15px;
+    width: 95%;
+
+}
+
+.btn{
+
+    margin-right: 15px;
+}
+
+.footer{
+
+    padding: 5px;
+}
+

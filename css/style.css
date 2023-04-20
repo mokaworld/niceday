@@ -1,0 +1,261 @@
+
+
+body{
+    
+    font-family: 'Cairo', sans-serif;
+
+}
+
+
+.balloons{
+
+    z-index: 999;
+    position: absolute;
+    top: 25%;
+    right: 87%;
+}
+
+.balloons2{
+
+    z-index: 999;
+    position: absolute;
+    top: 25%;
+    right: 5%;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    
+    font-size: 18px;
+    color: #F57315;
+    font-weight: bolder;
+  
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+    
+    
+      color: #96396E;
+}
+
+.navbar-nav{
+    
+    margin-right: 17%;
+    padding: 5px;
+}
+
+
+.about-info h1{
+
+   font-weight: : bold;
+
+}
+
+.about-info .lead{
+
+   font-size: 18px;
+
+}
+
+ul li img{
+     
+    margin-top: 15px;
+    margin-bottom: -10px;
+   
+    
+}
+
+.social img{
+
+    margin-top: 30px;
+   margin-left: 20px;
+
+}
+
+.table-bordered{
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+tbody tr:first-child {
+
+    background-color: #000;
+    color: #fff;
+}
+
+.list-unstyled{
+
+        display: -webkit-inline-box;
+
+}
+
+
+
+.navbar-default{
+    
+    margin-bottom: 0;
+}
+
+
+.logo{
+    
+    background-color: #fff;
+    
+}
+
+.about-info{
+    
+    margin-bottom: 50px;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.about-info h1{
+    
+        font-family: 'Cairo', sans-serif;
+}
+
+.navbar-form{
+
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.frame video {
+    max-width: 95%;
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    margin-top: 20px;
+
+    
+}
+
+.slide{
+    
+    background: #fff;
+    height: auto;
+}
+
+.table {
+    width: 20%;
+    margin-top:50px;
+    font-family: "Cairo";
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+
+.card{
+    
+    border:1px solid #fff;
+    background: #fff;
+    padding: 20px;
+    max-width: 90%;
+    margin-bottom: 15px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    
+}
+
+.card:hover{
+    
+  
+    border: 1px solid #a59c9c;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px;
+}
+
+.card img{
+
+    max-width: 100%;
+}
+
+.footer{
+
+    padding: 5px;
+}
+
+
+.pagination{
+
+
+        margin-right: 52%;
+}
+
+
+
+
+
+
+
+
+
+
+/* start media query */ 
+
+
+
+
+
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+
+@media (max-width: 480px) {
+  
+body{
+
+    text-align: center;
+}
+  
+
+.about-info h1{
+
+    font-size: 24px;
+}
+
+.about-info .lead {
+    font-size: 15px;
+}
+
+.frame video{
+
+    max-width: 65%;
+}
+
+.span12{
+
+    margin-right: 105px;
+}
+
+.card{
+
+    max-width: 50%;
+    margin-top: 15%;
+    margin-right: 20%;
+    border: 1px solid #eee;
+    border-radius: 8px;
+
+}
+
+.pagination{
+
+
+        margin-right: -10%;
+}
+
+
+
+
+}
+
+

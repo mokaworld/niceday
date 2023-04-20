@@ -1,0 +1,169 @@
+body{
+    
+    font-family: 'Cairo', sans-serif;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+    
+    font-size: 18px;
+    color: #F57315;
+    font-weight: bolder;
+  
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+    
+    
+      color: #96396E;
+}
+
+.navbar-nav{
+    
+    margin-right: 17%;
+    padding: 5px;
+}
+
+
+.about-info h1{
+
+   font-weight: : bold;
+
+}
+
+.about-info .lead{
+
+   font-size: 18px;
+
+}
+
+ul li img{
+     
+    margin-top: 15px;
+    margin-bottom: -10px;
+   
+    
+}
+
+.social img{
+
+   margin-left: 40px;
+
+}
+
+tbody tr:first-child {
+
+    background-color: #000;
+    color: #fff;
+}
+
+.list-unstyled{
+
+        display: -webkit-inline-box;
+
+}
+
+
+
+.navbar-default{
+    
+    margin-bottom: 0;
+}
+
+
+.logo{
+    
+    background-color: #fff;
+    
+}
+
+.about-info{
+    
+    margin-bottom: 50px;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.about-info h1{
+    
+        font-family: 'Cairo', sans-serif;
+}
+
+.navbar-form{
+
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.frame video {
+    max-width: 95%;
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    
+}
+
+.slide{
+    
+    background: #fff;
+    height: auto;
+}
+
+.table {
+    width: 20%;
+    margin-top:50px;
+    font-family: "Cairo";
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.address h1{
+
+    font-family: "cairo";
+    background-color: #2DAA8B;
+    color: #fff;
+    padding: 35px;
+    margin-top: 103px;
+    margin-bottom: 70px;
+}
+
+
+.card{
+    
+    border:1px solid #fff;
+    background: #fff;
+    padding: 20px;
+    max-width: 90%;
+    margin-bottom: 15px;
+       border: 1px solid #eee;
+    border-radius: 8px;
+    
+}
+
+.card:hover{
+    
+  
+    border: 1px solid #a59c9c;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px;
+}
+
+.card img{
+
+    max-width: 100%;
+}
+
+.footer{
+
+    padding: 5px;
+}
+
+.pagination{
+
+
+        margin-right: 45%;
+}
